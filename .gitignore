@@ -1,0 +1,8 @@
+gen-rb
+Gemfile.lock
+*.iml
+.idea
+/target/
+/project/project/
+/project/target/
+/*/target/
