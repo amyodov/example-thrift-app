@@ -1,4 +1,4 @@
-# Sample-Thrift-App
+# Example-Thrift-App
 -------------------
 
 Just a sample playground project for [Apache Thrift](https://thrift.apache.org/) integrations.
